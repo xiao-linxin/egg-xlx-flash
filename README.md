@@ -27,7 +27,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-msg-flash --save
+$ npm i egg-xlx-flash --S
 ```
 
 ## Usage
